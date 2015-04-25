@@ -1,4 +1,5 @@
 <?php
 // test
-echo "Hello World!";
+echo "Hello World!\n";
+echo "Patch\n";
 ?>
