@@ -1,5 +1,6 @@
 <?php
 // test
+echo "Add from demo1\n";
 echo "Hello World!\n";
 echo "Patch\n";
 echo "Show\n";
