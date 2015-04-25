@@ -7,4 +7,5 @@ echo "Patch\n";
 echo "Show\n";
 echo "New HTTPS\n";
 echo "Add from demo0\n";
+echo "2nd demo0\n";
 ?>
