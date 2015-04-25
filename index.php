@@ -9,5 +9,6 @@ echo "New HTTPS\n";
 echo "Add from demo0\n";
 echo "2nd demo0\n";
 echo "conflict demo1\n";
+echo "conflict demo0\n";
 
 ?>
